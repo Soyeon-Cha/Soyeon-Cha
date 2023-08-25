@@ -28,9 +28,9 @@
 
 <h2>
   Experiences
-  <h5>
-    이화여자대학교 웹개발 커리어클럽EFUB(Ewha Frontend UXUI Backend) 3th Backend Lead Developer | 2023.03 ~
+  <h4>
+    이화여자대학교 웹개발 커리어클럽 EFUB(Ewha Frontend UXUI Backend) 3th Backend Lead Developer | 2023.03 ~
     <br><br/>
     Google Developer Student Clubs Ewha 4th Member | 2022. 09. ~ 2023. 07.
-  </h5>
+  </h4>
 </h2>
