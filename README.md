@@ -1,16 +1,36 @@
-### Hi there 👋
+# Soyeon Cha
+<h5>
+  Contact |  soyeon.cha419@gmail.com <br><br/>
+  Blog | https://sssoyeon.tistory.com <br><br/>
+<h5/>
 
-<!--
-**Soyeon-Cha/Soyeon-Cha** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<h2>
+  Github Status
+  <h5>
+    <img height="180em" src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api?username=Soyeon-Cha&theme=default&show_icons=true"/>
+    <img height="120em" src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/top-langs/?username=Soyeon-Cha&theme=default&layout=compact"/>
+    <br></br>
+  </h5>
 
-Here are some ideas to get you started:
+<h2>
+  Stack
+  <h5>
+    <img src="https://img.shields.io/badge/Spring-6DB33F?style=flat-square&logo=spring&logoColor=white"/>
+    <img src="https://img.shields.io/badge/Spring Boot-6DB33F?style=flat-square&logo=springboot&logoColor=white"/>
+    <img src="https://img.shields.io/badge/Java-0B6FB6?style=flat-square&logo=java&logoColor=white"/>
+    <img src="https://img.shields.io/badge/MySQL-4479A1?style=flat-square&logo=mysql&logoColor=white"/>
+    <img src="https://img.shields.io/badge/AWS-232F3E?style=flat-square&logo=amazonaws&logoColor=white"/>
+    <img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white"/>
+    <img src="https://img.shields.io/badge/C-A8B9CC?style=flat-square&logo=c&logoColor=white"/>
+    <br><br/>
+  </h5>
+</h2>
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+<h2>
+  Experiences
+  <h5>
+    이화여자대학교 웹개발 커리어클럽EFUB(Ewha Frontend UXUI Backend) 3th Backend Lead Developer | 2023.03 ~
+    <br><br/>
+    Google Developer Student Clubs Ewha 4th Member | 2022. 09. ~ 2023. 07.
+  </h5>
+</h2>
