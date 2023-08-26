@@ -1,6 +1,6 @@
 # Soyeon Cha
 <h4>
-  Contact |  soyeon.cha419@gmail.com <br><br/>
+  Contact |  sy.cha419@gmail.com <br><br/>
   Blog | https://sssoyeon.tistory.com <br><br/>
 <h4/>
 
