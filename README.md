@@ -4,15 +4,6 @@
   Blog | https://sssoyeon.tistory.com <br><br/>
 <h4/>
 
-<h2>
-  Github Status
-  <h5>
-    <img height="180em" src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api?username=Soyeon-Cha&theme=default&show_icons=true"/>
-    <img height="120em" src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/top-langs/?username=Soyeon-Cha&theme=default&layout=compact"/>
-    <br></br>
-  </h5>
-
-<h2>
   Stack
   <h5>
     <img src="https://img.shields.io/badge/Spring-6DB33F?style=flat-square&logo=spring&logoColor=white"/>
