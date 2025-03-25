@@ -7,8 +7,8 @@
 <table border="" cellspacing="0" cellpadding="0" width="100%">
    <tr width="100%">
      <td align="center">2020.03. - 2025.02.</td>
-     <td align="center">이화여자대학교</td>
-     <td align="center">컴퓨터공학전공</td>
+     <td align="center">이화여자대학교 컴퓨터공학전공</td>
+     <td align="center"></td>
    </tr>
    <tr>
      <td align="center">2024.12. - 2025.02.</td>
