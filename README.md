@@ -2,7 +2,6 @@
 차소연  
 **Contact**&nbsp; [sy.cha419@gmail.com](mailto:sy.cha419@gmail.com)  
 **Blog**&nbsp; [sssoyeon.tistory.com](https://sssoyeon.tistory.com)  
-**LinkedIn**&nbsp; [https://www.linkedin.com/in/soyeon-cha-392b97250](https://www.linkedin.com/in/soyeon-cha-392b97250)  
 
 <table border="" cellspacing="0" cellpadding="0" width="100%">
    <tr width="100%">
