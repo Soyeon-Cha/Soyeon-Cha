@@ -1,5 +1,5 @@
 ![header](https://capsule-render.vercel.app/api?type=blur&color=3182F6&height=200&section=headerr&fontSize=50&fontColor=191F28)  
-[이름 블라인드]  
+  
 **Contact**&nbsp; [sy.cha419@gmail.com](mailto:sy.cha419@gmail.com)  
 **Blog**&nbsp; [sssoyeon.tistory.com](https://sssoyeon.tistory.com)  
 
