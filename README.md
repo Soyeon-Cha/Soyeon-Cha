@@ -41,17 +41,16 @@
 |[E-BUS](https://github.com/E-BUS/SERVER)|2024.03.|이화여자대학교 해커톤|Backend|
 |[시간표 아티스트](https://github.com/SamwaMoney/Timetable-Artist-back)|2023.03. - 2023.08.|EFUB 3기 프로젝트|Backend|
 |[Market Fuby](https://github.com/MARKETFUBY/MARKETFUBY-BACK)|2023.09. - 2023.11.|EFUB 3기 프로젝트|Backend|
-|[WishWith](https://github.com/Orang2E/wishWith-final)|2023.09. - 2024.12.|학부 '오픈 SW 플랫폼'|Backend & Frontend|
 <br>
 
 ### Tech Stack
   <h5>
-    <img src="https://img.shields.io/badge/Spring-6DB33F?style=flat-square&logo=spring&logoColor=white"/>
     <img src="https://img.shields.io/badge/Spring Boot-6DB33F?style=flat-square&logo=springboot&logoColor=white"/>
     <img src="https://img.shields.io/badge/Java-0B6FB6?style=flat-square&logo=java&logoColor=white"/>
     <img src="https://img.shields.io/badge/MySQL-4479A1?style=flat-square&logo=mysql&logoColor=white"/>
     <img src="https://img.shields.io/badge/AWS-232F3E?style=flat-square&logo=amazonaws&logoColor=white"/>
     <img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white"/>
+    <img src="https://img.shields.io/badge/C++-00599C?style=flat-square&logo=cplusplus&logoColor=white"/>
     <br><br/>
   </h5>
 </h2>
