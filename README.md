@@ -1,8 +1,6 @@
 ![header](https://capsule-render.vercel.app/api?type=blur&color=3182F6&height=200&section=headerr&text=Soyeon%20Cha&fontSize=50&fontColor=191F28)  
 
 차소연  
-**Contact**&nbsp; [sy.cha419@gmail.com](mailto:sy.cha419@gmail.com)  
-**Blog**&nbsp; [sssoyeon.tistory.com](https://sssoyeon.tistory.com)  
 
 <table border="" cellspacing="0" cellpadding="0" width="100%">
    <tr width="100%">
@@ -54,3 +52,5 @@
     <br><br/>
   </h5>
 </h2>
+
+**Blog**&nbsp; [sssoyeon.tistory.com](https://sssoyeon.tistory.com)  
