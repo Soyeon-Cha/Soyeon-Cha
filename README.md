@@ -35,7 +35,7 @@
 |Name|Duration|Activity|Role|
 |:--:|:------:|:------:|:--:|
 |[청바지](https://github.com/Passion-4/Jeans-BE)|2025.01. - 2025.02.|SK 텔레콤 FLY AI Challenger<br>🏆 우수상 수상|백엔드|
-|[COOK-SAVE](https://github.com/EWHA-CAPSTONE-COOKSAVE/cooksave-back)|2023.09. - 2024.06.|졸업 프로젝트|백엔드|
+|[Cook Save](https://github.com/EWHA-CAPSTONE-COOKSAVE/cooksave-back)|2023.09. - 2024.06.|졸업 프로젝트|백엔드|
 |[E-BUS](https://github.com/E-BUS/SERVER)|2024.03.|교내 해커톤 참가|백엔드|
 |[시간표 아티스트](https://github.com/SamwaMoney/Timetable-Artist-back)|2023.03. - 2023.08.|EFUB 3기 SWS 여름방학 프로젝트|백엔드|
 |[Market Fuby](https://github.com/MARKETFUBY/MARKETFUBY-BACK)|2023.09. - 2023.11.|EFUB 3기 프로젝트|백엔드|
